@@ -1,6 +1,6 @@
 # Vivli-AMR-data-challenge-2025-VIT-
 Vivli AMR data challenge 2025 (ID: 00011415) 
-2025 AMR Surveillance Data Challenge
+2025 AMR Surveillance Data Challenge- **Winner of AMR Global Leadership Award Grand Prize**
 
 **Proposal Title: Causal Inference of Antimicrobial Resistance Trends: Evaluating the Impact of Climate and Pollution Using Global AMR Data
 **
